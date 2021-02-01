@@ -1,0 +1,22 @@
+{
+  "name": "superbowl-quarterbacks",
+  "version": "1.0.0",
+  "description": "This is a code-along for Express Views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egrivalsky/superbowl-quarterbacks.git"
+  },
+  "author": "Erik G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egrivalsky/superbowl-quarterbacks/issues"
+  },
+  "homepage": "https://github.com/egrivalsky/superbowl-quarterbacks#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
